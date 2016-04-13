@@ -1,4 +1,8 @@
-colorscheme-garden
-==================
+#DarkGarden
+This is a Sublime Text theme inspired by Railscasts.
 
-Color scheme for Sublime Text
+#Screenshot
+![shot]()
+
+#Will this color scheme also work on TextMate?
+It should.
